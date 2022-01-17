@@ -2,7 +2,7 @@
 
 Ce repository contient le projet numéro 2 du parcours proposé par OpenClassrooms pour obtenir le diplôme de développeur Web.
 
-Ce projet intitulé: "Transformez votre CV en site Web", propose de réaliser un CV à partir d'une maquette (voir [maquetteCV.png](https://github.com/Charles-Forgeard/-OC-Projet2/blob/master/maquetteCV.png)).
+Ce projet intitulé: "Transformez votre CV en site Web", propose de réaliser un CV à partir d'une maquette (voir [maquetteCV.png](https://github.com/Charles-Forgeard/-OC-Projet-2-/blob/master/maquetteCV.png)).
 L'objectif étant de développer ces compétences:
 - Définir la structure d'une page web à partir d'une maquette
 - Assurer la conformité d'une page web aux standards HTML et CSS
