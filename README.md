@@ -32,4 +32,4 @@ Voyez la liste des [contributeurs](https://github.com/Charles-Forgeard/-OC-Proje
 
 ## License
 
-Ce projet et libre et peut-être utilisé par tout à chacun.
+Ce projet et libre et peut-être utilisé par tout à chacun: [GPL-3.0 License](https://github.com/Charles-Forgeard/-OC-Projet2/blob/master/LICENSE).
